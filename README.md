@@ -13,4 +13,6 @@ To install random with pip use this command: pip install random
 
 To install datetime with pip use this command: pip install datetime
 
-Please follow if you like cool code like this.
+![python_logo](https://www.python.org/static/community_logos/python-logo-inkscape.svg)
+
+Please me follow if you like cool code like this.
